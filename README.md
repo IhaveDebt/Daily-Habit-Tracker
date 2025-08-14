@@ -66,5 +66,5 @@ public class HabitTracker {
                     System.out.println("❌ Invalid choice.");
             }
         }
-    }
+    } 
 }
